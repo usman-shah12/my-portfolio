@@ -105,8 +105,7 @@ class AboutSection extends StatelessWidget {
             spacing: 24,
             runSpacing: 16,
             children: [
-              _StatItem(value: '1+', label: 'Year Experience'),
-_StatItem(value: '15+', label: 'Practice Projects'),
+_StatItem(value: '5+', label: 'Practice Projects'),
 _StatItem(value: 'Intern', label: 'Flutter Developer'),
             ],
           ),

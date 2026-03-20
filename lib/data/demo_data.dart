@@ -9,9 +9,10 @@ class DemoData {
       title: 'E-Commerce App',
       description:
           'A full-featured e-commerce mobile application with product listings, cart management, secure checkout, and real-time order tracking. Built with GetX state management and Firebase backend.',
-      techStack: ['Flutter', 'GetX', 'Firebase', 'Stripe'],
-      githubUrl: 'https://github.com/syedusmanshah/ecommerce-app',
+      techStack: ['Flutter', 'GetX', 'Firebase', ],
+      githubUrl: 'https://github.com/usman-shah12/luxe_E_commerce-app.git',
       liveUrl: null,
+      image: 'assets/images/luxe.png',
     ),
     ProjectModel(
       title: 'Task Manager Pro',
@@ -20,6 +21,7 @@ class DemoData {
       techStack: ['Flutter', 'BLoC', 'SQLite', 'Notifications'],
       githubUrl: 'https://github.com/syedusmanshah/task-manager',
       liveUrl: null,
+      image: 'assets/images/luxe.png',
     ),
     ProjectModel(
       title: 'Chat Application',
@@ -28,6 +30,7 @@ class DemoData {
       techStack: ['Flutter', 'Firebase', 'GetX', 'FCM'],
       githubUrl: 'https://github.com/syedusmanshah/chat-app',
       liveUrl: null,
+      image: 'assets/images/luxe.png',
     ),
     ProjectModel(
       title: 'Weather Dashboard',
@@ -36,6 +39,7 @@ class DemoData {
       techStack: ['Flutter', 'REST API', 'GetX', 'Charts'],
       githubUrl: 'https://github.com/syedusmanshah/weather-app',
       liveUrl: null,
+      image: 'assets/images/luxe.png',
     ),
     ProjectModel(
       title: 'Fitness Tracker',
@@ -44,6 +48,7 @@ class DemoData {
       techStack: ['Flutter', 'Hive', 'Provider', 'FL Chart'],
       githubUrl: 'https://github.com/syedusmanshah/fitness-tracker',
       liveUrl: null,
+      image: 'assets/images/luxe.png',
     ),
     ProjectModel(
       title: 'News Reader',
@@ -52,6 +57,7 @@ class DemoData {
       techStack: ['Flutter', 'REST API', 'Riverpod', 'SQLite'],
       githubUrl: 'https://github.com/syedusmanshah/news-reader',
       liveUrl: null,
+      image: 'assets/images/luxe.png',
     ),
   ];
 

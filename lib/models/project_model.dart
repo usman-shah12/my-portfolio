@@ -4,12 +4,13 @@ class ProjectModel {
   final List<String> techStack;
   final String githubUrl;
   final String? liveUrl;
+  final String? image;
 
   const ProjectModel({
     required this.title,
     required this.description,
     required this.techStack,
     required this.githubUrl,
-    this.liveUrl,
+    this.liveUrl, this.image,
   });
 }
